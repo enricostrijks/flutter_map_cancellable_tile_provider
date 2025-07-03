@@ -30,5 +30,7 @@ dependencies:
   dio: ^5.7.0
   flutter:
     sdk: flutter
-  flutter_map: ^8.0.0
+  flutter_map: 
+    git: https://github.com/enricostrijks/flutter_map_marker_popup
+    ref: groen_app
   meta: ^1.11.0
